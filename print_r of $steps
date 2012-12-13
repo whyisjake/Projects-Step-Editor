@@ -1,0 +1,412 @@
+Array
+(
+    [0] => stdClass Object
+        (
+            [title] => 
+            [lines] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Organize all the supplies.
+                            [text_raw] => Organize all the supplies.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                )
+
+            [object] => 
+            [images] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [imageid] => 2185
+                            [orderby] => 1
+                            [text] => http://guide-images.makeprojects.org/igi/Ibw2wNsOA1YVsbeJ
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [imageid] => 2184
+                            [orderby] => 2
+                            [text] => http://guide-images.makeprojects.org/igi/KZWWBEdLRyhOcB2e
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [imageid] => 2182
+                            [orderby] => 3
+                            [text] => http://guide-images.makeprojects.org/igi/QFAilydrNdOU3STW
+                        )
+
+                )
+
+            [number] => 1
+        )
+
+    [1] => stdClass Object
+        (
+            [title] => 
+            [lines] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Pour the goat milk into a pot sitting in a sink of hot water.
+                            [text_raw] => Pour the goat milk into a pot sitting in a sink of hot water.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => Alternatively, you can heat the milk on the stove if you watch it closely.
+                            [text_raw] => Alternatively, you can heat the milk on the stove if you watch it closely. 
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [text] => Raise the temperature of the milk gradually to 86 degrees F.
+                            [text_raw] => Raise the temperature of the milk gradually to 86 degrees F. 
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                )
+
+            [object] => 
+            [images] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [imageid] => 2180
+                            [orderby] => 1
+                            [text] => http://guide-images.makeprojects.org/igi/TPZkom5IaHabiQwb
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [imageid] => 36
+                            [orderby] => 2
+                            [text] => http://guide-images.makeprojects.org/igi/iGjwJ3WKAMilKtnJ
+                        )
+
+                )
+
+            [number] => 2
+        )
+
+    [2] => stdClass Object
+        (
+            [title] => 
+            [lines] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Add 1/8 tsp of M4001 culture on the surface of the milk and stir gently.
+                            [text_raw] => Add 1/8 tsp of M4001 culture on the surface of the milk and stir gently.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => Let sit for three minutes.
+                            [text_raw] => Let sit for three minutes.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                )
+
+            [object] => 
+            [images] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [imageid] => 2179
+                            [orderby] => 1
+                            [text] => http://guide-images.makeprojects.org/igi/WIBHHSpMLWgFBIgo
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [imageid] => 2178
+                            [orderby] => 2
+                            [text] => http://guide-images.makeprojects.org/igi/mBMwkdo6AaCUwNI5
+                        )
+
+                )
+
+            [number] => 3
+        )
+
+    [3] => stdClass Object
+        (
+            [title] => 
+            [lines] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Dissolve 1/8 teaspoon calcium chloride in a tablespoon of water.
+                            [text_raw] => Dissolve 1/8 teaspoon calcium chloride in a tablespoon of water.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => Add to milk and stir.
+                            [text_raw] => Add to milk and stir.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                )
+
+            [object] => 
+            [images] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [imageid] => 2188
+                            [orderby] => 1
+                            [text] => http://guide-images.makeprojects.org/igi/MrHnAFQFSB4VR415
+                        )
+
+                )
+
+            [number] => 4
+        )
+
+    [4] => stdClass Object
+        (
+            [title] => 
+            [lines] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Dissolve 1/8 tsp rennet in water.
+                            [text_raw] => Dissolve 1/8 tsp rennet in water.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => Add to milk and stir.
+                            [text_raw] => Add to milk and stir.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [text] => Cover pan.
+                            [text_raw] => Cover pan.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [text] => Let stand at room temperature (around 72 degrees F.) for about 12 hours.
+                            [text_raw] => Let stand at room temperature (around 72 degrees F.) for about 12 hours.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                )
+
+            [object] => 
+            [images] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [imageid] => 2168
+                            [orderby] => 1
+                            [text] => http://guide-images.makeprojects.org/igi/uHld3aihgxiWoasY
+                        )
+
+                )
+
+            [number] => 5
+        )
+
+    [5] => stdClass Object
+        (
+            [title] => 
+            [lines] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => The curd will have separated from the whey.
+                            [text_raw] => The curd will have separated from the whey.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => Ladle the curds into molds on a draining rack with a catch basin.
+                            [text_raw] => Ladle the curds into molds on a draining rack with a catch basin.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                )
+
+            [object] => 
+            [images] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [imageid] => 2189
+                            [orderby] => 1
+                            [text] => http://guide-images.makeprojects.org/igi/cCCCpbLDKpewDWTo
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [imageid] => 42
+                            [orderby] => 2
+                            [text] => http://guide-images.makeprojects.org/igi/QBSo5oHoXUqc43gA
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [imageid] => 2190
+                            [orderby] => 3
+                            [text] => http://guide-images.makeprojects.org/igi/RpjMYrsZMHnDsnyD
+                        )
+
+                )
+
+            [number] => 6
+        )
+
+    [6] => stdClass Object
+        (
+            [title] => 
+            [lines] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => The curds can be poured into small individual molds, a larger mold or into a cheesecloth bag.
+                            [text_raw] => The curds can be poured into small individual molds, a larger mold or into a cheesecloth bag.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => Drain for 12 hours, pouring off the whey as it collects.
+                            [text_raw] => Drain for 12 hours, pouring off the whey as it collects.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [text] => The curds should continue to drain for an additional 12 hours.
+                            [text_raw] => The curds should continue to drain for an additional 12 hours.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [text] => The volume of curds will decrease by at least one-half.
+                            [text_raw] => The volume of curds will decrease by at least one-half.
+                            [bullet] => icon_note
+                            [level] => 0
+                        )
+
+                )
+
+            [object] => 
+            [images] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [imageid] => 2193
+                            [orderby] => 1
+                            [text] => http://guide-images.makeprojects.org/igi/FUHUb5jYomBsq6Ru
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [imageid] => 2192
+                            [orderby] => 2
+                            [text] => http://guide-images.makeprojects.org/igi/wBGCBJXYgGFm4XPW
+                        )
+
+                )
+
+            [number] => 7
+        )
+
+    [7] => stdClass Object
+        (
+            [title] => 
+            [lines] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [text] => Unmold the cheese, which will still be wet but now forms into a shape.
+                            [text_raw] => Unmold the cheese, which will still be wet but now forms into a shape.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [text] => If using a larger mold or cheesecloth, you can place the cheese in a glass bowl and blend it together with a fork.
+                            [text_raw] => If using a larger mold or cheesecloth, you can place the cheese in a glass bowl and blend it together with a fork.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [text] => Lightly sprinkle salt on all sides.
+                            [text_raw] => Lightly sprinkle salt on all sides.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [text] => Allow to dry on a cheese mat or rack for another 24 hours.
+                            [text_raw] => Allow to dry on a cheese mat or rack for another 24 hours.
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [text] => Then refrigerate.
+                            [text_raw] => Then refrigerate.  
+                            [bullet] => black
+                            [level] => 0
+                        )
+
+                )
+
+            [object] => 
+            [images] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [imageid] => 38
+                            [orderby] => 1
+                            [text] => http://guide-images.makeprojects.org/igi/2e5wgQwHF3iwDv64
+                        )
+
+                )
+
+            [number] => 8
+        )
+
+)
