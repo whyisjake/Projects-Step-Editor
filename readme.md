@@ -4,7 +4,7 @@ Make: Projects Step Editor
 Summary
 -------
 
-MAKE needs a tool that can both read, and write all of the data points that exist as a result of the Make: Projects API. 
+MAKE needs a tool that can both read, and write all of the data points that exist as a result of the Make: Projects API. Editors can manage the steps of posts, and also create new projects with steps.
 
 Requirements
 ------------
