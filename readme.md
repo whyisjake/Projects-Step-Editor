@@ -13,3 +13,6 @@ Requirements
 2. When the post is saved, all of the steps are saved into a custom field array that matches the data structure of `print_r` of `$steps`.
 3. If this is an older project, all of the steps are loaded into the form, and can be edited/saved by the editor working on the project.
 4. Ideally, each of the steps and substeps are sortable, but not a requirement for the initial project.
+5. The provided wireframe should be followed generally, but is open to interpretation.
+6. Development must follow WordPress.com VIP best practices. MAKE will work with developer on requirements there.
+7. Development is complete when live on site.
